@@ -13,6 +13,7 @@ void setup() {
   
   Serial.begin(115200);
 
+  // obniz.setKey("obniz_plugin_key"); // release Key
   obniz.onEvent(onEvent);
   obniz.start();
 }
