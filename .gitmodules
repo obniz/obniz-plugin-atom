@@ -1,6 +1,0 @@
-[submodule "library/FastLED"]
-	path = library/FastLED
-	url = https://github.com/FastLED/FastLED
-[submodule "library/M5Atom"]
-	path = library/M5Atom
-	url = https://github.com/m5stack/M5Atom
